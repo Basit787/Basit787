@@ -2,7 +2,7 @@
 
 **Hello! I'm Abdul Basit Saleem Lambe, a passionate Full Stack Developer with nearly 2 years of experience building high-performance web and mobile applications.**
 
-📧 basitsaleem282@gmail.com | [LinkedIn](https://linkedin.com/in/basit787/) | [GitHub](https://github.com/Basit787) | 🔗 [Portfolio](https://basitsaleem.vercel.app)
+📧 basitsaleem282@gmail.com | [LinkedIn](https://linkedin.com/in/basit787/) | 🔗 [Portfolio](https://basitsaleem.vercel.app)
 
 ---
 
