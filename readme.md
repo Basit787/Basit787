@@ -1,4 +1,4 @@
-# 🚀 Abdul Basit Saleem Lambe - Full Stack Developer
+# 🚀 Abdul Basit Saleem Lambe - ~~Full Stack Developer~~
 
 **Hello! I'm Abdul Basit Saleem Lambe, a passionate Full Stack Developer with nearly 2 years of experience building high-performance web and mobile applications.**
 
@@ -23,11 +23,13 @@
 
 ### ⚙️ Backend Developmnt
 
+```bash
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-000000?style=for-the-badge&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+```
 
 <!-- ### 📦 DevOps & Tools -->
 
