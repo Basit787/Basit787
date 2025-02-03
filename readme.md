@@ -1,4 +1,4 @@
-# 🚀 Abdul Basit Saleem Lambe - ~~Full Stack Developer~~
+# 🚀 Abdul Basit Saleem Lambe - Full Stack Developer
 
 **Hello! I'm Abdul Basit Saleem Lambe, a passionate Full Stack Developer with nearly 2 years of experience building high-performance web and mobile applications.**
 
