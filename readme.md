@@ -39,7 +39,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![S3 Bucket](https://img.shields.io/badge/AWSS3-0000?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![S3 Bucket](https://img.shields.io/badge/S3--Bucket-0000?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <!-- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) -->
 
