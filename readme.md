@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Abdul Basit**, a Full Stack Developer with nearly **2 years** of experience building modern, scalable, and performant web and mobile applications. I specialize in designing robust backend systems and rich frontend user experiences using cutting-edge tools and frameworks.
+Hi, I'm **Abdul Basit**, a Full Stack Developer with **3+ years** of experience building modern, scalable, and performant web and mobile applications. I specialize in designing robust backend systems and rich frontend user experiences using cutting-edge tools and frameworks.
 
 ---
 
