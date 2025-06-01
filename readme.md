@@ -1,90 +1,73 @@
-# 🚀 Abdul Basit Saleem Lambe
+<h1 align="center">🚀 Abdul Basit Saleem Lambe</h1>
 
-### Full Stack Developer | React • Next.js • NestJS • PostgreSQL • Docker • Kafka
+<p align="center">
+  <b>Full Stack Developer</b> | React • Next.js • NestJS • PostgreSQL • Docker • Kafka  
+</p>
 
-📧 **[basitsaleem282@gmail.com](mailto:basitsaleem282@gmail.com)**
-🔗 [**LinkedIn**](https://linkedin.com/in/basit787/) | 🌐 [**Portfolio**](https://basitsaleem.vercel.app)
+<p align="center">
+  📧 <a href="mailto:basitsaleem282@gmail.com">basitsaleem282@gmail.com</a> •  
+  🌐 <a href="https://basitsaleem.vercel.app" target="_blank">Portfolio</a> •  
+  🔗 <a href="https://linkedin.com/in/basit787/" target="_blank">LinkedIn</a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-Hi, I'm **Abdul Basit**, a Full Stack Developer with **3+ years** of experience building modern, scalable, and performant web and mobile applications. I specialize in designing robust backend systems and rich frontend user experiences using cutting-edge tools and frameworks.
+I'm **Abdul Basit**, a dedicated Full Stack Developer with **3+ years** of experience building scalable, high-performance web and mobile applications. I excel at building robust backends and crafting seamless frontend experiences. I love working on complex systems, scalable APIs, microservices, and modern DevOps pipelines.
 
 ---
 
 ## 🧰 Tech Stack
 
-### 📝 Programming Languages
+### 🎨 Frontend
 
-* 🟨 JavaScript
-* 🟦 TypeScript
-* 🐍 Python
+- ⚛️ **Frameworks**: React.js, Next.js
+- 💡 **Languages**: TypeScript, JavaScript
+- 🧠 **State Management**: Redux, React Query, Zustand
+- 🎨 **Styling**: Tailwind CSS, Styled Components
 
-### 🧱 Frameworks & Libraries
+### 🔧 Backend
 
-* 🟢 Node.js
-* ⚛️ React.js
-* ⏭️ Next.js
-* 🧱 NestJS
-* 🔥 Hono.js
-* 🚂 Express.js
-* 🦕 Deno
-* 🍋 Fresh
+- 🚀 **Node.js Frameworks**: NestJS, Express.js, Hono.js
+- 🌐 **APIs**: REST, GraphQL
+- 🏗️ **Architecture**: Microservices, Monolithic
+- 📦 **ORM/Query Builders**: Drizzle ORM, Prisma, Knex, Sequelize, TypeORM
 
-### 🗃️ Databases & ORMs
+### 💾 Databases
 
-* 🐘 PostgreSQL
-* 🍃 MongoDB
-* 🐬 MySQL
-* 📦 Sequelize
-* 📚 Prisma
-* 🧩 TypeORM
-* 🌿 Drizzle ORM
-* 🔧 Knex
+- 🐘 **SQL**: PostgreSQL, MySQL
+- 🍃 **NoSQL / Cache**: MongoDB, Redis
 
-### ☁️ Cloud & DevOps
+### ☁️ DevOps & Cloud
 
-* ☁️ AWS (EC2, S3)
-* 🔥 Firebase
-* 🐳 Docker
-* 🤖 GitHub Actions
-* 🌐 Nginx
-
-### 🛠️ Tools & Technologies
-
-* 🐳 Docker
-* 🐇 RabbitMQ
-* 🦄 Kafka
-* 🔮 GraphQL
-* 🧪 Postman
-
-### 🔐 Auth & State
-
-* 🔐 JWT
-* 🧑‍🤝‍🧑 BetterAuth
-* 🧾 Clerk
-* 🔒 Logto
-* 🧠 Redux
-* 🐻 Zustand
-* 📦 NPM Packages
+- ☁️ **Cloud Platforms**: AWS (EC2, S3), Firebase
+- 🐳 **Containers & Hosting**: Docker, Coolify, Nginx
+- 🔁 **Message Brokers**: Kafka, RabbitMQ
+- 🔄 **CI/CD**: GitHub Actions
 
 ---
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Basit787\&layout=compact\&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basit787&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let’s Collaborate
 
-I’m always open to collaborating on new projects, freelancing opportunities, or tech talks!
+I'm always open to:
 
-* 📧 **Email:** [basitsaleem282@gmail.com](mailto:basitsaleem282@gmail.com)
-* 💼 [**LinkedIn**](https://linkedin.com/in/basit787/)
-* 🌐 [**Portfolio**](https://basitsaleem.vercel.app)
+- 🚀 Exciting freelance or remote projects
+- 🛠️ Collaborations on OSS or startups
+- 🎙️ Tech talks or mentorship
+
+📫 Reach me at:
+
+- 📧 [basitsaleem282@gmail.com](mailto:basitsaleem282@gmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/basit787)
+- 🌐 [Portfolio](https://basitsaleem.vercel.app)
 
 ---
-
-Would you like this as a downloadable Markdown (`README.md`) file or auto-pushed to your GitHub repository?
