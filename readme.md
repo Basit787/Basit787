@@ -1,111 +1,61 @@
-<!-- Main Glassmorphic Container -->
-<div align="center" style="
-  padding: 40px;
-  margin: 20px;
-  border-radius: 25px;
-  backdrop-filter: blur(15px);
-  background: rgba(255, 255, 255, 0.10);
-  border: 1px solid rgba(255, 255, 255, 0.25);
-  box-shadow: 0 8px 40px rgba(255, 255, 255, 0.1);
-">
+<div align="center">
 
- 
+# Abdul Basit Saleem 👋
 
-  <h1 style="font-weight:700; margin-top:20px; color:white;">
-    Abdul Basit Saleem
-  </h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3B6EF5&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;AI+%26+LLM+Applications;Cloud-Native+Systems" alt="Typing animation" />
 
-  <p style="font-size: 18px; color:white; opacity:0.85;">
-    <b>Full Stack Developer • DevOps • Microservices</b>
-  </p>
+**3+ years** building web, mobile, and AI-powered products end to end.
 
-  <!-- Badges -->
-  <p>
-    <a href="mailto:basitsaleem282@gmail.com">
-      <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black">
-    </a>
-    <a href="https://linkedin.com/in/basit787" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
-    </a>
-    <a href="https://basitsaleem.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=000">
-    </a>
-  </p>
-
-  <p style="max-width: 650px; color:white; opacity:0.9; font-size: 16px;">
-    I'm a passionate full stack developer specializing in 
-    <b>Next.js, NestJS, PostgreSQL and Docker</b>.  
-    I focus on creating scalable, elegant, high-performance systems with 
-    a sleek frontend and strong backend architecture.
-  </p>
+[![Email](https://img.shields.io/badge/📧_Email-e0e5ec?style=for-the-badge&labelColor=e0e5ec)](mailto:basitsaleem282@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-e0e5ec?style=for-the-badge&labelColor=e0e5ec)](https://linkedin.com/in/basit787)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-e0e5ec?style=for-the-badge&labelColor=e0e5ec)](https://github.com/Basit787)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-e0e5ec?style=for-the-badge&labelColor=e0e5ec)](https://basitsaleem.vercel.app)
 
 </div>
+
+---
+
+## 💼 About Me
+
+- 🌐 Built web and mobile products using **React, Next.js, React Native, Node.js, NestJS, and FastAPI**.
+- 💬 Integrated the **WhatsApp Business API** and built WhatsApp Tech Provider capabilities, including message template APIs and webhooks.
+- 🤖 Built **AI agents and LLM features**, including a vision-based profile-audit agent, a voice AI calling integration, and AI content generation APIs.
+- 🧾 Built AI document processing with **OpenAI APIs and OCR** to extract structured data from PDF and image invoices.
+- 📡 Developed real-time features with **WebSockets, Socket.IO, and WebRTC**, including remote screen sharing for customer support.
+- ☁️ Deployed containerized services on **AWS** with **Docker, Kubernetes, and GitHub Actions CI/CD**.
 
 ---
 
 ## 🧰 Tech Stack
 
+### ⚡ Frontend & Mobile
+
+`React.js` `Next.js` `React Native` `TypeScript` `JavaScript` `Redux` `Zustand` `TanStack Query` `Tailwind CSS`
+
+### 🔧 Backend & APIs
+
+`Node.js` `NestJS` `Express.js` `FastAPI` `Hono` `Python` `SQL` `REST` `GraphQL` `WebSockets` `WebRTC`
+
+### 🗄️ Databases & ORMs
+
+`PostgreSQL` `MongoDB` `Redis` `Prisma` `Drizzle ORM` `TypeORM` `Mongoose`
+
+### 🤖 AI & LLM
+
+`OpenAI` `Claude` `AI Agents` `LangChain` `LangGraph` `RAG` `Embeddings` `OCR`
+
+### ☁️ Cloud & DevOps
+
+`AWS (Lambda, ECS, EKS, S3)` `Docker` `Kubernetes` `GitHub Actions` `CI/CD`
+
+### 🧩 Architecture & Integrations
+
+`Microservices` `Event-Driven` `Serverless` `Kafka` `Caching` `System Design` `WhatsApp Business API` `Webhooks` `Cron Jobs` `Firebase`
+
+---
+
 <div align="center">
 
-### ⚡ Frontend
-<img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=next.js&logoColor=000" />
-<img src="https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/TailwindCSS-white?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
-
-### 🔧 Backend
-<img src="https://img.shields.io/badge/NestJS-white?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
-<img src="https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=000" />
-<img src="https://img.shields.io/badge/Hono-white?style=for-the-badge&logo=hono&logoColor=orange" />
-<img src="https://img.shields.io/badge/GraphQL-white?style=for-the-badge&logo=graphql&logoColor=E10098" />
-
-### 🗄️ Databases
-<img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=00758F" />
-<img src="https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=31648C" />
-<img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/Redis-white?style=for-the-badge&logo=redis&logoColor=DC382D" />
-
-
-### ☁️ DevOps & Cloud
-<img src="https://img.shields.io/badge/AWS-white?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/Coolify-white?style=for-the-badge&logo=coolify&logoColor=purple" />
-<img src="https://img.shields.io/badge/Nginx-white?style=for-the-badge&logo=nginx&logoColor=009639" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-white?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+*✨ Passionate about building scalable systems and AI-powered products that solve real problems.*
 
 </div>
-
----
-
-## 🧊 What I Do
-
-<div align="center" style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
-
-<div style="backdrop-filter: blur(12px); padding:22px; border-radius:20px; width:260px; background:rgba(255,255,255,0.07); border:1px solid rgba(255,255,255,0.25); box-shadow:0 0 20px rgba(255,255,255,0.1); color:white;">
-  <h3 align="center">⚡ Frontend Engineering</h3>
-  <p align="center">Beautiful UI, smooth UX with React & Next.js.</p>
-</div>
-
-<div style="backdrop-filter: blur(12px); padding:22px; border-radius:20px; width:260px; background:rgba(255,255,255,0.07); border:1px solid rgba(255,255,255,0.25); box-shadow:0 0 20px rgba(255,255,255,0.1); color:white;">
-  <h3 align="center">🔧 Backend / Microservices</h3>
-  <p align="center">Reliable, scalable APIs using NestJS.</p>
-</div>
-
-<div style="backdrop-filter: blur(12px); padding:22px; border-radius:20px; width:260px; background:rgba(255,255,255,0.07); border:1px solid rgba(255,255,255,0.25); box-shadow:0 0 20px rgba(255,255,255,0.1); color:white;">
-  <h3 align="center">🐳 DevOps & Deployments</h3>
-  <p align="center">Coolify, Docker, Nginx, CI/CD, AWS EC2.</p>
-</div>
-
-</div>
-
----
-
-## 🤝 Connect
-
-<div align="center" style="color:white">
-Email: <b>basitsaleem282@gmail.com</b>  
-LinkedIn: <b>linkedin.com/in/basit787</b>  
-Portfolio: <b>basitsaleem.vercel.app</b>
-</div>
-
----
